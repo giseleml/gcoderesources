@@ -7,13 +7,14 @@
 - react native 2 - https://www.edx.org/course/cs50s-mobile-app-development-with-react-native
 
 # tutorials
-- codebar - http://tutorials.codebar.io/
-- khancademy - https://www.khanacademy.org/computing/computer-science
-- js async - https://hackernoon.com/understanding-async-await-in-javascript-1d81bb079b2c
-- web development - https://www.academind.com/learn/web-dev/web-development-overview/
-- react-redux - https://www.freecodecamp.org/news/how-to-connect-react-to-redux-a-diagrammatic-guide-d2687c14750a/
+- codebar http://tutorials.codebar.io/
+- khancademy https://www.khanacademy.org/computing/computer-science
+- js async https://hackernoon.com/understanding-async-await-in-javascript-1d81bb079b2c
+- web development https://www.academind.com/learn/web-dev/web-development-overview/
+- react-redux https://www.freecodecamp.org/news/how-to-connect-react-to-redux-a-diagrammatic-guide-d2687c14750a/
 - php http://www.etelg.com.br/paginaete/downloads/informatica/apostila_php.pdf
-- web concepts - http://girldevelopit.github.io/gdi-featured-web-concepts/#/1
+- web concepts http://girldevelopit.github.io/gdi-featured-web-concepts/#/1
+- everything https://www.educba.com/html-vs-html5/
 
 # design 
 - for web devs https://webaim.org/resources/designers/
