@@ -26,7 +26,7 @@
 - https://dev.to/lauragift21/a-practical-guide-to-optimizing-performance-on-the-web-nlf
 
 # conversor 
--https://convertio.co/pt/ai-doc/
+- https://convertio.co/pt/ai-doc/
 
 --------------------------------------------------------------------------------------
 
