@@ -1,6 +1,5 @@
 # news
 - https://dev.to/
-- https://dev.to/aershov24/26-reactredux-interview-questions-you-should-know-in-2018-41je
 
 # paid courses
 - react native - https://www.udemy.com/join/login-popup/?next=/curso-react-native/learn/lecture/11387218%3Fstart%3D0
@@ -51,3 +50,4 @@
 - https://dev.to/fullstackcafe/top-26-javascript-interview-questions-i-wish-i-knew-26k1
 - https://dev.to/macmacky/70-javascript-interview-questions-5gfi
 - https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/javascript-questions.md
+- https://dev.to/aershov24/26-reactredux-interview-questions-you-should-know-in-2018-41je
