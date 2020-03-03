@@ -6,7 +6,7 @@
 - react native - https://www.udemy.com/join/login-popup/?next=/curso-react-native/learn/lecture/11387218%3Fstart%3D0
 - react native 2 - https://www.edx.org/course/cs50s-mobile-app-development-with-react-native
 
-# tutorials
+# tutorials & free courses 
 - codebar http://tutorials.codebar.io/
 - khancademy https://www.khanacademy.org/computing/computer-science
 - js async https://hackernoon.com/understanding-async-await-in-javascript-1d81bb079b2c
@@ -15,9 +15,13 @@
 - php http://www.etelg.com.br/paginaete/downloads/informatica/apostila_php.pdf
 - web concepts http://girldevelopit.github.io/gdi-featured-web-concepts/#/1
 - everything https://www.educba.com/html-vs-html5/
+- web developers https://codelabs.developers.google.com/
+- programming courses http://mooc.ifsp.edu.br/courses
+- angular https://medium.com/@tomastrajan/how-to-build-epic-angular-app-with-clean-architecture-91640ed1656
 
 # design 
 - for web devs https://webaim.org/resources/designers/
+- web design https://webdesign.tutsplus.com/
 
 # performance optimization
 - https://dev.to/lauragift21/a-practical-guide-to-optimizing-performance-on-the-web-nlf
