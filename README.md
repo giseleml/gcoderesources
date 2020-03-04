@@ -20,6 +20,7 @@
 
 # web security 
 - https://portswigger.net/web-security
+- stanford https://online.stanford.edu/courses/xcs100-introduction-web-security
 
 # design 
 - for web devs https://webaim.org/resources/designers/
