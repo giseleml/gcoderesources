@@ -18,6 +18,9 @@
 - programming courses http://mooc.ifsp.edu.br/courses
 - angular https://medium.com/@tomastrajan/how-to-build-epic-angular-app-with-clean-architecture-91640ed1656
 
+# web security 
+- https://portswigger.net/web-security
+
 # design 
 - for web devs https://webaim.org/resources/designers/
 - web design https://webdesign.tutsplus.com/
