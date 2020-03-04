@@ -32,6 +32,9 @@
 # conversor 
 - https://convertio.co/pt/ai-doc/
 
+# docker 
+- https://www.docker.com/get-started
+
 --------------------------------------------------------------------------------------
 
 # JS lectures
