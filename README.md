@@ -17,6 +17,7 @@
 - web developers https://codelabs.developers.google.com/
 - programming courses http://mooc.ifsp.edu.br/courses
 - angular https://medium.com/@tomastrajan/how-to-build-epic-angular-app-with-clean-architecture-91640ed1656
+- graphql for beginners https://dev.to/davinc/graphql-for-beginners-3f1a
 
 # web security 
 - https://portswigger.net/web-security
