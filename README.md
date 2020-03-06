@@ -18,6 +18,7 @@
 - programming courses http://mooc.ifsp.edu.br/courses
 - angular https://medium.com/@tomastrajan/how-to-build-epic-angular-app-with-clean-architecture-91640ed1656
 - graphql for beginners https://dev.to/davinc/graphql-for-beginners-3f1a
+- guide for full stack https://dev.to/hoangbkit/how-to-become-fullstack-javascript-developer-3bek
 
 # web security 
 - https://portswigger.net/web-security
