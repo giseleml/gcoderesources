@@ -27,6 +27,7 @@
 # design 
 - for web devs https://webaim.org/resources/designers/
 - web design https://webdesign.tutsplus.com/
+- color pallete http://colormind.io/template/paper-dashboard/
 
 # performance optimization
 - https://dev.to/lauragift21/a-practical-guide-to-optimizing-performance-on-the-web-nlf
